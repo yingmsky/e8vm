@@ -2,6 +2,8 @@
 
 # E8VM
 
+**Paused development because I started working at Google, and Google has policies for open source hobby projects that I have to follow. I promise I will finish this when the time comes.**
+
 Goal: A book written in working code and markdown document that
 describes how computer system works, including architecture,
 assemblers, compilers, and operating systems.
