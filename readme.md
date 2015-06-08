@@ -2,7 +2,7 @@
 
 # E8VM
 
-**Paused development because I started working at Google, and Google has policies for open source hobby projects that I have to follow. I promise I will finish this when the time comes.**
+**Paused development because I started working at Google, and Google has policies for open source hobby projects that I have to follow. I promise I will finish this when the time comes. If you would like to contribute, please contact me via email.**
 
 Goal: A book written in working code and markdown document that
 describes how computer system works, including architecture,
