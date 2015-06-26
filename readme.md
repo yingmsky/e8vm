@@ -26,7 +26,7 @@ I hope the project can be readable like a novel. This is how I achieve it:
 - **Small files.** Each file has no more than 300 lines, and each line contains no more than 80 chars.
 - **Modularized.** No circular dependency among files, which enables [DAG-based plotting](http://8k.lonnie.io). 
 
-The DAG visualization gives the project a auto-generated "Table of Contents", where a reader can read the entire project 
+The DAG visualization gives the project an auto-generated "Table of Contents", where a reader can read the entire project 
 from left to right in the graph. While the code might be still hard to read, I hope that now a reader can provide 
 detailed feedback without the need to dive super deep first. 
 For example, to read and provide feedback to the left most block in 
