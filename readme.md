@@ -29,8 +29,8 @@ I hope the project can be readable like a novel. This is how I achieve it:
 The DAG visualization gives the project an auto-generated "Table of Contents", where a reader can read the entire project 
 from left to right in the graph. While the code might be still hard to read, I hope that now a reader can provide 
 detailed feedback without the need to dive super deep first. 
-For example, to read and provide feedback to the left most block in 
-a package,you now do not need to understand the details of any other blocks in the package.
+For example, to read and provide feedback to the leftmost block in 
+a package, you now do not need to understand the details of any other blocks in the package.
 
 Try read the code [here](http://8k.lonnie.io).
 
