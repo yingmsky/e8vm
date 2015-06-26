@@ -20,16 +20,19 @@ I promise I will finish this when the time comes. If you would like to contribut
 
 ## Readability
 
-I hope the project can be readable like a novel. To achieve this:
+I hope the project can be readable like a novel. This is how I achieve it:
 
 - **Simple language.** Written in golang.
 - **Small files.** Each file has no more than 300 lines, and each line contains no more than 80 chars.
 - **Modularized.** No circular dependency among files, which enables [DAG-based plotting](http://8k.lonnie.io). 
 
 The DAG visualization gives the project a auto-generated "Table of Contents", where a reader can read the entire project 
-from left to right in the graph.
+from left to right in the graph. While the code might be still hard to read, I hope that now a reader can provide 
+detailed feedback without the need to dive super deep first. 
+For example, to read and provide feedback to the left most block in 
+a package,you now do not need to understand the details of any other blocks in the package.
 
-Read the code [here](http://8k.lonnie.io).
+Try read the code [here](http://8k.lonnie.io).
 
 ## For Contributers
 
@@ -40,6 +43,8 @@ go get lonnie.io/e8tools/...
 go get github.com/golang/lint/golint
 go get github.com/jstemmer/gotags
 ```
+
+If you would like to contribute, please contact me via email.
 
 ## TODOs
 
