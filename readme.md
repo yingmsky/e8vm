@@ -9,7 +9,7 @@ go get lonnie.io/e8vm/...
 Project goal: a self-contained simulated computer, including:
 
 - `arch8`: A simulated dead simple instruction set that is barely enough for writing an OS (done).
-- `asm8`: An assembler for `arch8` (done).
+- `asm8`: An assembler for `arch8` (done). [Try it live!](http://lonnie.io/asmplay/)
 - `g8`: A programming language that looks like Go but actually works like C (working on it).
 - `os8`: A dead simple operating system that is written in `g8` (not started).
 - Since `arch8` is dead simple, it can be easily ported to Javascript so that everything can run (slowly) in a browser.
