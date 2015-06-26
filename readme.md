@@ -6,7 +6,7 @@ go get lonnie.io/e8vm/...
 
 # E8VM
 
-Project goal: a self-contained simulated computer, including:
+Project goal: a self-contained simulated computer system, including:
 
 - `arch8`: A simulated dead simple instruction set that is barely enough for writing an OS (done).
 - `asm8`: An assembler for `arch8` (done). [Try it live!](http://lonnie.io/asmplay/)
