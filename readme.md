@@ -20,11 +20,11 @@ I promise I will finish this when the time comes. If you would like to contribut
 
 ## Readability
 
-I hope the project can be readable like a novel. This is how I achieve it:
+I hope the project can be readable like a novel. This is how I plan to achieve it:
 
-- **Simple language.** Written in golang.
-- **Small files.** Each file has no more than 300 lines, and each line contains no more than 80 chars.
-- **Modularized.** No circular dependency among files, which enables [DAG-based plotting](http://8k.lonnie.io). 
+- **Use a simple language.** Written in golang.
+- **Write in small files.** Each file has no more than 300 lines, and each line contains no more than 80 chars.
+- **Keep no circular dependency.** With no circular dependency among files, the project can be plotted as a [DAG](http://8k.lonnie.io). 
 
 The DAG visualization gives the project an auto-generated "Table of Contents", where a reader can read the entire project 
 from left to right in the graph. While the code might be still hard to read, I hope that now a reader can provide 
