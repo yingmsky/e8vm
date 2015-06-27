@@ -16,7 +16,7 @@ Project goal: a self-contained simulated computer system, including:
 - For self hosting, I could either rewrite everything in `g8`, or port golang to `os8`. Not sure which one is more practical.
 
 Note: I paused the development because I started working at Google, and Google has some policies for hobby projects. 
-I promise I will finish this when the time comes. If you would like to contribute, please contact me via email.
+I promise I will finish this when the time comes. If you would like to contribute, please contact me via email for copyright/license related details.
 
 ## Readability
 
