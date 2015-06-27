@@ -35,6 +35,9 @@ because the left-most block depends on nothing.
 
 Try read the code [here](http://8k.lonnie.io).
 
+If you are just interested with the public interface, but does not care about the internal implementation,
+GoWalker can provide the docs: [here](https://gowalker.org/lonnie.io/e8vm/).
+
 ## For Contributers
 
 To use the `makefile`, you also need to install some tools:
