@@ -44,7 +44,7 @@ go get github.com/golang/lint/golint
 go get github.com/jstemmer/gotags
 ```
 
-If you would like to contribute, please contact me via email.
+If you would like to contribute, please contact me via email, or just open an issue/pull request.
 
 ## TODOs
 
